@@ -1,0 +1,11 @@
+C:\Users\JMARTIN\Source\Repos\StephManager\StepthManager\CreativaSL.Dll.StepthManager.Global\bin\Debug\CreativaSL.Dll.StephManager.Global.dll
+C:\Users\JMARTIN\Source\Repos\StephManager\StepthManager\CreativaSL.Dll.StepthManager.Global\bin\Debug\CreativaSL.Dll.StephManager.Global.pdb
+C:\Users\JMARTIN\Source\Repos\StephManager\StepthManager\CreativaSL.Dll.StepthManager.Global\obj\Debug\CreativaSL.Dll.StephManager.Global.csprojResolveAssemblyReference.cache
+C:\Users\JMARTIN\Source\Repos\StephManager\StepthManager\CreativaSL.Dll.StepthManager.Global\obj\Debug\CreativaSL.Dll.StephManager.Global.dll
+C:\Users\JMARTIN\Source\Repos\StephManager\StepthManager\CreativaSL.Dll.StepthManager.Global\obj\Debug\CreativaSL.Dll.StephManager.Global.pdb
+C:\StephManager\StepthManager\CreativaSL.Dll.StepthManager.Global\bin\Debug\CreativaSL.Dll.StephManager.Global.dll
+C:\StephManager\StepthManager\CreativaSL.Dll.StepthManager.Global\bin\Debug\CreativaSL.Dll.StephManager.Global.pdb
+C:\StephManager\StepthManager\CreativaSL.Dll.StepthManager.Global\obj\Debug\CreativaSL.Dll.StephManager.Global.csprojAssemblyReference.cache
+C:\StephManager\StepthManager\CreativaSL.Dll.StepthManager.Global\obj\Debug\CreativaSL.Dll.StephManager.Global.csproj.CoreCompileInputs.cache
+C:\StephManager\StepthManager\CreativaSL.Dll.StepthManager.Global\obj\Debug\CreativaSL.Dll.StephManager.Global.dll
+C:\StephManager\StepthManager\CreativaSL.Dll.StepthManager.Global\obj\Debug\CreativaSL.Dll.StephManager.Global.pdb

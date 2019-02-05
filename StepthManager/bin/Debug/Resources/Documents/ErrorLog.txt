@@ -1,0 +1,1 @@
+﻿-2147024894 - 15/11/2018 10:45:25 a. m. - frmVerReporteTrabajosRealizados ~ frmVerReporteTrabajosRealizados() - No se puede cargar el archivo o ensamblado 'Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91' ni una de sus dependencias. El sistema no puede encontrar el archivo especificado.
